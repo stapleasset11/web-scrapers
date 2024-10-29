@@ -1,0 +1,3 @@
+Scrapy
+scrapeops-scrapy==0.5.2
+scrapeops-scrapy-proxy-sdk==1.0
